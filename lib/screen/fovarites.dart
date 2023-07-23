@@ -5,6 +5,6 @@ class Fovarites extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Text('fovarites trips');
+    return Text('fovarites tripssfs');
   }
 }
